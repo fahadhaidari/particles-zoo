@@ -1,2 +1,2 @@
 # particles-zoo
-A particles zoo simulation with JavaScript
+Particles zoo simulation with JavaScript
